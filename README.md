@@ -13,10 +13,10 @@ colorama,
 ,time
 ---------------------------------------------------------
 install:
-pip install time
-pip install subprocces
-pip install pyfiglet
-pip install time
+pip install time,
+pip install subprocces,
+pip install pyfiglet,
+pip install time,
 ---------------------------------------------------------
                                                             
 
